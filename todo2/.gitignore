@@ -32,3 +32,5 @@ go.work.sum
 # .vscode/
 
 target/
+logs/
+todo.db
